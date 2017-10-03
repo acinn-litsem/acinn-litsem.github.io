@@ -21,7 +21,7 @@ paper.
 ## Suggest a paper for discussion
 
 Everybody is allowed (encouraged!) to suggest a paper for discussion. Write
-us an email with your suggestions and I will update the paper list.
+an email with your suggestions and I will update the paper list.
 
 In principle you can submit a paper about any topic, but you should pay
 attention to a couple of points:
