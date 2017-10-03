@@ -27,7 +27,7 @@ In principle you can submit a paper about any topic, but you should pay
 attention to a couple of points:
 
 - the paper should not be too long (10 pages is good, 15 pages would be an
-  upper limit, with 20 pages the paper should be outstanding)
+  upper limit, with 20 pages the paper should be outstanding).
 - without being too simple, the paper should not be overly complicated or
   addressed to an expert audience.
 
@@ -38,8 +38,8 @@ The selection procedure for the following week will follow three steps:
 - voluntary basis (a student asks to present a paper): this is the preferred
   option. You can ask for any free Tuesday during the semester!
 - democracy: if no paper is selected on Tuesday, I will ask people to
-  express their prefered paper by Thursday, and I will design the presenter.
-- tyranny: if nothing happens by Friday, I will design a paper and a presenter.
+  express their prefered paper by Thursday, and I will assign the presenter.
+- tyranny: if nothing happens by Friday, I will assign a paper and a presenter.
 
 
 ## Paper checklist
