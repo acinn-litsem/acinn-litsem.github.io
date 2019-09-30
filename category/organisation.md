@@ -75,5 +75,5 @@ We warmly recommend reading the book by Joshua Schimel: *Writing Science: How to
 Write Papers That Get Cited and Proposals That Get Funded* (Oxford
 university press). 
 Or
-David M Schultz: *Eloquent Scince. A practical guide to becomig a better Writer, Speaker & Atmospheric Scientist* (Springer).
+David M Schultz: *Eloquent Science. A practical guide to becomig a better Writer, Speaker & Atmospheric Scientist* (Springer).
 
