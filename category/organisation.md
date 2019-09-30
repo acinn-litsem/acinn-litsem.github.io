@@ -36,10 +36,10 @@ attention to a couple of points:
 The selection procedure for the following week will follow three steps:
 
 - voluntary basis (a student asks to present a paper): this is the preferred
-  option. You can ask for any free Tuesday during the semester!
-- democracy: if no paper is selected on Tuesday, I will ask people to
-  express their prefered paper by Thursday, and I will assign the presenter.
-- tyranny: if nothing happens by Friday, I will assign a paper and a presenter.
+  option. You can ask for any free lesson during the semester!
+- democracy: if no paper is selected, I will ask people to
+  express their prefered paper (or I will suggest papers), and we will assign the presenter and the date.
+- tyranny: if nothing happens by the day after the last lesson, I will assign a paper and a presenter.
 
 
 ## Paper checklist
@@ -73,4 +73,7 @@ The selection procedure for the following week will follow three steps:
 
 We warmly recommend reading the book by Joshua Schimel: *Writing Science: How to
 Write Papers That Get Cited and Proposals That Get Funded* (Oxford
-university press).
+university press). 
+Or
+David M Schultz: *Eloquent Scince. A practical guide to becomig a better Writer, Speaker & Atmospheric Scientist* (Springer).
+
