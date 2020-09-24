@@ -6,7 +6,7 @@ sidebar_link: true
 
  <br>
 
-We meet every Thursday at 08:30 in the Besprechungsraum and discuss a paper
+During the winter semester 2020/21 we meet every Thursday at 13:30 via zoom and discuss a paper
 together. One student has to prepare and lead the discussion. This implies
 to prepare a presentation which condenses and summarize the results to
 the other participants. This presentation is to make sure that everybody
